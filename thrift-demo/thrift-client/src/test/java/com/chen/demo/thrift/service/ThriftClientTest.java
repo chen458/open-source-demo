@@ -16,8 +16,7 @@ import org.apache.thrift.transport.TTransport;
 public class ThriftClientTest {
     public static void main(String[] args) {
         try {
-            TTransport transport;
-            transport = new TSocket("localhost", 9090);
+            TTransport transport = new TSocket("localhost", 9090);
             transport.open();
             TProtocol protocol = new TBinaryProtocol(transport);
 
@@ -39,6 +38,6 @@ public class ThriftClientTest {
     }
 
     private static void call(IHelloWorldService.Client client) throws TException {
-         client.sayHello("测试");
+        System.out.println(client.sayHello("测试"));
     }
 }
