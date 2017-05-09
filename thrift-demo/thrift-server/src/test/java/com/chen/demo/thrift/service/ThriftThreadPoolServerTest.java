@@ -1,8 +1,8 @@
 package com.chen.demo.thrift.service;
 
 import com.chen.demo.thrift.IHelloWorldService;
-import org.apache.thrift.server.TServer;
-import org.apache.thrift.server.TSimpleServer;
+import org.apache.thrift.protocol.TBinaryProtocol;
+import org.apache.thrift.server.TThreadPoolServer;
 import org.apache.thrift.transport.TServerSocket;
 import org.apache.thrift.transport.TServerTransport;
 
@@ -12,7 +12,7 @@ import org.apache.thrift.transport.TServerTransport;
  * @created 2017/5/2
  * @time 下午11:34
  */
-public class ThriftServerTest {
+public class ThriftThreadPoolServerTest {
 
     public static IHelloWorldService.Iface service;
     public static IHelloWorldService.Processor processor;
@@ -24,7 +24,7 @@ public class ThriftServerTest {
             Runnable simple = new Runnable(){
                 @Override
                 public void run() {
-                    simple(processor);
+                    tpServer(processor);
                 }
             };
             new Thread(simple).start();
@@ -33,12 +33,21 @@ public class ThriftServerTest {
         }
     }
 
-    public static void simple(IHelloWorldService.Processor processor) {
+    /**
+     * 服务类型 TThreadPoolServer
+     * 传输内容 TBinaryProtocol
+     * 传输形式
+     * @param processor
+     */
+    public static void tpServer(IHelloWorldService.Processor processor) {
         try {
-             TServerTransport serverTransport = new TServerSocket(9090);
-             TServer server = new TSimpleServer(new TServer.Args(serverTransport).processor(processor));
-             System.out.println("Starting the simple server...");
-             server.serve();
+            TServerTransport serverTransport = new TServerSocket(9090);
+            TThreadPoolServer.Args args = new TThreadPoolServer.Args(serverTransport);
+            args.inputProtocolFactory(new TBinaryProtocol.Factory());
+            args.outputProtocolFactory(new TBinaryProtocol.Factory());
+            TThreadPoolServer server = new TThreadPoolServer(args.processor(processor));
+            System.out.println("Starting the simple server...");
+            server.serve();
          } catch (Exception e) {
              e.printStackTrace();
          }
