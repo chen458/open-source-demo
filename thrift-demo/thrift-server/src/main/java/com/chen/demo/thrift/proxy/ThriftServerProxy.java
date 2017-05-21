@@ -32,7 +32,8 @@ public class ThriftServerProxy extends HttpServlet {
             Class Processor = Class.forName(getServiceInterface() + "$Processor");
             Constructor constructor = Processor.getConstructor(Iface);
             TProcessor tp = (TProcessor) constructor.newInstance(serviceImpl);
-            TServerTransport serverTransport = new TServerSocket(port);
+
+            TServerTransport serverTransport = new TServerSocket(port);//连接端口
             TThreadPoolServer.Args args = new TThreadPoolServer.Args(serverTransport);
             args.inputProtocolFactory(new TBinaryProtocol.Factory());
             args.outputProtocolFactory(new TBinaryProtocol.Factory());

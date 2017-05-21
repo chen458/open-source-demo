@@ -27,8 +27,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="thrift-client" target="1.8" />
-      <module name="thrift-demo" target="1.8" />
+      <module name="thrift-client" target="1.7" />
+      <module name="thrift-demo" target="1.5" />
       <module name="thrift-server" target="1.8" />
     </bytecodeTargetLevel>
   </component>
