@@ -166,9 +166,9 @@ public class HelloWorldCommand extends HystrixCommand<Result> {
         //同步
         executeMethod();
         //异步
-        queueMethod();
+//        queueMethod();
         // 异步注册
-        observeMethod();
+//        observeMethod();
 
     }
 
