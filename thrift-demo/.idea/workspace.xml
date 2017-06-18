@@ -2,62 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20f07b03-e568-4992-afb0-f2172ab98cbb" name="Default" comment="thrift 增加 参数为对象的方法">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_3_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_8_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_jayway_jsonpath_json_path_2_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_archaius_archaius_core_0_4_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_netflix_hystrix_hystrix_core_1_5_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_configuration_commons_configuration_1_8.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_reactivex_rxjava_1_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_validation_validation_api_1_1_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_accessors_smart_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_minidev_json_smart_2_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_5.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_core_8_5_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_el_8_5_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_embed_tomcat_embed_websocket_8_5_6.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_assertj_assertj_core_2_5_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_library_1_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hdrhistogram_HdrHistogram_2_1_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hibernate_hibernate_validator_5_2_4_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jboss_logging_jboss_logging_3_3_0_Final.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_json_json_20140107.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mockito_mockito_core_1_10_19.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_objenesis_objenesis_2_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_ow2_asm_asm_5_0_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_skyscreamer_jsonassert_1_3_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_22.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_4_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_4_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_4_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_test_1_4_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_tomcat_1_4_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_web_1_4_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_1_4_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_test_autoconfigure_1_4_3_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_3_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_3_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_3_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_3_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_4_3_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_3_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_3_5_RELEASE.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/artifacts/thrift_server_war_exploded.xml" afterPath="$PROJECT_DIR$/.idea/artifacts/thrift_server_war_exploded.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thrift-doc/image/Client 时序图.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thrift-doc/image/IHelloWorldService.Client.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thrift-doc/image/IHelloworldService.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thrift-doc/image/IScheme.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thrift-doc/image/MetaData.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thrift-doc/image/Person.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thrift-doc/image/TProcessor.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thrift-doc/image/TProtocol.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thrift-doc/image/TServer.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thrift-doc/image/TTransport.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thrift-doc/image/client.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thrift-doc/image/thrift 结构图.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/thrift-doc/2、thrift 简介" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../hystrix-demo/hystrix-demo.iml" afterPath="$PROJECT_DIR$/../hystrix-demo/hystrix-demo.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../hystrix-demo/pom.xml" afterPath="$PROJECT_DIR$/../hystrix-demo/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/thrift-server/src/main/java/com/chen/demo/thrift/proxy/ThriftServerProxy.java" afterPath="$PROJECT_DIR$/thrift-server/src/main/java/com/chen/demo/thrift/proxy/ThriftServerProxy.java" />
     </list>
     <ignored path="thrift-demo.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -77,28 +37,111 @@
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
   </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+  </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FavoritesManager">
     <favorites_list name="thrift-demo" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="ThriftServerProxy.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/thrift-server/src/main/java/com/chen/demo/thrift/proxy/ThriftServerProxy.java">
+      <file leaf-file-name="IHelloWorldService.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/thrift-client/src/main/java/com/chen/demo/thrift/IHelloWorldService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="41" column="31" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
+            <state relative-caret-position="271">
+              <caret line="1863" column="138" selection-start-line="1863" selection-start-column="138" selection-end-line="1863" selection-end-column="138" />
+              <folding>
+                <element signature="class#getPersonList#0;class#Processor#0;class#IHelloWorldService#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TServiceClient.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.10.0/libthrift-0.10.0-sources.jar!/org/apache/thrift/TServiceClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="399">
+              <caret line="69" column="19" selection-start-line="69" selection-start-column="19" selection-end-line="69" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ThriftServerListener.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/thrift-server/src/main/java/com/chen/demo/thrift/listener/ThriftServerListener.java">
+      <file leaf-file-name="TProtocol.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.10.0/libthrift-0.10.0-sources.jar!/org/apache/thrift/protocol/TProtocol.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="25" column="59" selection-start-line="25" selection-start-column="59" selection-end-line="25" selection-end-column="59" />
+            <state relative-caret-position="190">
+              <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TCompactProtocol.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.10.0/libthrift-0.10.0-sources.jar!/org/apache/thrift/protocol/TCompactProtocol.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="421">
+              <caret line="423" column="46" selection-start-line="423" selection-start-column="29" selection-end-line="423" selection-end-column="46" />
+              <folding>
+                <element signature="e#14605#14606#0" expanded="true" />
+                <element signature="e#14642#14643#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="client.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/thrift-doc/image/client.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Client 时序图.png" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/thrift-doc/image/Client 时序图.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TProtocol.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/thrift-doc/image/TProtocol.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Person.png" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/thrift-doc/image/Person.png">
+          <provider selected="true" editor-type-id="images">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TJSONProtocol.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.10.0/libthrift-0.10.0-sources.jar!/org/apache/thrift/protocol/TJSONProtocol.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="269">
+              <caret line="40" column="37" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TTransport.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.10.0/libthrift-0.10.0-sources.jar!/org/apache/thrift/transport/TTransport.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="518">
+              <caret line="153" column="13" selection-start-line="153" selection-start-column="13" selection-end-line="153" selection-end-column="13" />
+              <folding>
+                <element signature="e#4633#4634#0" expanded="true" />
+                <element signature="e#4652#4653#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -147,6 +190,7 @@
         <option value="$PROJECT_DIR$/thrift-server/src/main/java/com/chen/demo/thrift/proxy/ThriftClientProxy.java" />
         <option value="$PROJECT_DIR$/thrift-server/src/main/java/com/chen/demo/thrift/listener/ThriftServerListener.java" />
         <option value="$PROJECT_DIR$/thrift-server/src/main/java/com/chen/demo/thrift/proxy/ThriftServerProxy.java" />
+        <option value="$PROJECT_DIR$/thrift-doc/2、thrift 简介" />
       </list>
     </option>
   </component>
@@ -249,12 +293,57 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
               <option name="myItemId" value="thrift-demo" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thrift-demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Maven: org.apache.thrift:libthrift:0.10.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="libthrift-0.10.0.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thrift" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thrift-demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Maven: org.apache.thrift:libthrift:0.10.0" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="libthrift-0.10.0.jar" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
@@ -377,6 +466,32 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="resources" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thrift-demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thrift-demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thrift-server" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="java" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -386,6 +501,10 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="thrift" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="service" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -494,6 +613,42 @@
               <option name="myItemId" value="demo" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="web" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thrift-demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thrift-demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thrift-doc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thrift-demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thrift-demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thrift-doc" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="image" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -526,8 +681,74 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+          </PATH>
+          <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="test" />
+              <option name="myItemId" value="thrift-demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thrift-demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thrift-client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thrift" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thrift-demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thrift-demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thrift-client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thrift-demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thrift-demo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thrift-client" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -535,7 +756,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="service" />
+              <option name="myItemId" value="thrift" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -556,11 +777,26 @@
               <option name="myItemId" value="src" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="thrift" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="model" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -572,69 +808,30 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
-    <property name="SearchEverywhereHistoryKey" value="callb&#9;PSI&#9;JAVA://java.io.ObjectInputStream.ValidationList.Callback&#10;Complet&#9;PSI&#9;JAVA://java.util.concurrent.CompletableFuture&#10;mainc&#9;PSI&#9;JAVA://org.apache.http.impl.execchain.MainClientExec&#10;tserv&#9;FILE&#9;jar:///Users/csh/.m2/repository/org/apache/thrift/libthrift/0.10.0/libthrift-0.10.0-sources.jar!/org/apache/thrift/server/TServer.java&#10;ISc&#9;PSI&#9;JAVA://org.apache.thrift.scheme.IScheme&#10;THsHaServer&#9;PSI&#9;JAVA://org.apache.thrift.server.THsHaServer&#10;TTransport&#9;PSI&#9;JAVA://org.apache.thrift.transport.TTransport&#10;TProtocol&#9;FILE&#9;jar:///Users/csh/.m2/repository/org/apache/thrift/libthrift/0.10.0/libthrift-0.10.0-sources.jar!/org/apache/thrift/protocol/TProtocol.java" />
-    <property name="last_opened_file_path" value="$USER_HOME$/open-source/thrift-service-framework/pom.xml" />
+    <property name="SearchEverywhereHistoryKey" value="client&#9;PSI&#9;JAVA://com.chen.demo.thrift.IHelloWorldService.Client&#10;cl&#9;FILE&#9;uml://JAVA/com.chen.demo.thrift.IHelloWorldService.Client&#10;TPro&#9;FILE&#9;jar:///Users/csh/.m2/repository/org/apache/thrift/libthrift/0.10.0/libthrift-0.10.0-sources.jar!/org/apache/thrift/protocol/TProtocol.java&#10;Tprocessor&#9;FILE&#9;jar:///Users/csh/.m2/repository/org/apache/thrift/libthrift/0.10.0/libthrift-0.10.0-sources.jar!/org/apache/thrift/TProcessor.java&#10;callb&#9;PSI&#9;JAVA://java.io.ObjectInputStream.ValidationList.Callback&#10;Complet&#9;PSI&#9;JAVA://java.util.concurrent.CompletableFuture&#10;mainc&#9;PSI&#9;JAVA://org.apache.http.impl.execchain.MainClientExec&#10;tserv&#9;FILE&#9;jar:///Users/csh/.m2/repository/org/apache/thrift/libthrift/0.10.0/libthrift-0.10.0-sources.jar!/org/apache/thrift/server/TServer.java&#10;ISc&#9;PSI&#9;JAVA://org.apache.thrift.scheme.IScheme&#10;THsHaServer&#9;PSI&#9;JAVA://org.apache.thrift.server.THsHaServer&#10;TTransport&#9;PSI&#9;JAVA://org.apache.thrift.transport.TTransport&#10;TProtocol&#9;FILE&#9;jar:///Users/csh/.m2/repository/org/apache/thrift/libthrift/0.10.0/libthrift-0.10.0-sources.jar!/org/apache/thrift/protocol/TProtocol.java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
     <property name="FullScreen" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/thrift-server" />
-      <recent name="$PROJECT_DIR$/thrift-server/src/main/resources" />
-      <recent name="$PROJECT_DIR$/thrift-client/src/main/java/com/chen/demo/thrift" />
-      <recent name="$PROJECT_DIR$/thrift-client/src/main/thrift" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="com.chen.demo.springboot.web" />
-      <recent name="com.chen.demo.thrift.service" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/thrift-client/src/main" />
       <recent name="$PROJECT_DIR$/thrift-client/src" />
       <recent name="$PROJECT_DIR$/thrift-server/src" />
       <recent name="$PROJECT_DIR$/thrift-server/src/main" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.chen.demo.springboot.web" />
+      <recent name="com.chen.demo.thrift.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/thrift-doc/image" />
+      <recent name="$PROJECT_DIR$/thrift-server" />
+      <recent name="$PROJECT_DIR$/thrift-server/src/main/resources" />
+      <recent name="$PROJECT_DIR$/thrift-client/src/main/java/com/chen/demo/thrift" />
+      <recent name="$PROJECT_DIR$/thrift-client/src/main/thrift" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.ThriftClientTest">
-    <configuration default="false" name="ThriftSimpleServerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.chen.demo.thrift.service.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.chen.demo.thrift.service.ThriftSimpleServerTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="thrift-server" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="ThriftClientTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="com.chen.demo.thrift.service.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="com.chen.demo.thrift.service.ThriftClientTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="thrift-client" />
-      <envs />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Application.ThriftThreadPoolServerTest">
     <configuration default="false" name="ThriftThreadPoolServerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -1096,17 +1293,13 @@
       <envs />
       <method />
     </configuration>
-    <list size="4">
+    <list size="2">
       <item index="0" class="java.lang.String" itemvalue="Spring Boot.SpringbootApplication" />
-      <item index="1" class="java.lang.String" itemvalue="Application.ThriftSimpleServerTest" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ThriftClientTest" />
-      <item index="3" class="java.lang.String" itemvalue="Application.ThriftThreadPoolServerTest" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ThriftThreadPoolServerTest" />
     </list>
     <recent_temporary>
-      <list size="3">
-        <item index="0" class="java.lang.String" itemvalue="Application.ThriftClientTest" />
-        <item index="1" class="java.lang.String" itemvalue="Application.ThriftThreadPoolServerTest" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ThriftSimpleServerTest" />
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Application.ThriftThreadPoolServerTest" />
       </list>
     </recent_temporary>
   </component>
@@ -1134,6 +1327,8 @@
       <workItem from="1494412805165" duration="11239000" />
       <workItem from="1494466548730" duration="930000" />
       <workItem from="1495257613796" duration="61000" />
+      <workItem from="1497440246929" duration="654000" />
+      <workItem from="1497751182632" duration="13121000" />
     </task>
     <task id="LOCAL-00001" summary="thrift 增加 参数为对象的方法">
       <created>1493861806713</created>
@@ -1160,7 +1355,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35286000" />
+    <option name="totallyTimeSpent" value="49061000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -1168,34 +1363,65 @@
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2622549" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18415418" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4007353" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3493976" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14985591" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2723343" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299712" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38602942" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24632353" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2622549" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4007353" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18415418" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3299712" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38602942" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2622549" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4007353" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3493976" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.36383286" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Bean Validation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
@@ -1247,8 +1473,20 @@
           <properties />
           <option name="timeStamp" value="13" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/thrift-server/src/test/java/com/chen/demo/thrift/service/ThriftSimpleServerTest.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.10.0/libthrift-0.10.0-sources.jar!/org/apache/thrift/TBaseProcessor.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="14" />
+      <option name="time" value="17" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1257,369 +1495,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.10.0/libthrift-0.10.0-sources.jar!/org/apache/thrift/meta_data/MapMetaData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="22" column="21" selection-start-line="22" selection-start-column="21" selection-end-line="22" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/org.apache.thrift.meta_data.FieldValueMetaData">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>org.apache.thrift.meta_data.FieldValueMetaData</OriginalElement>
-          <nodes>
-            <node x="" y="">org.apache.thrift.meta_data.MapMetaData</node>
-            <node x="" y="">org.apache.thrift.meta_data.ListMetaData</node>
-            <node x="" y="">org.apache.thrift.meta_data.StructMetaData</node>
-            <node x="" y="">org.apache.thrift.meta_data.EnumMetaData</node>
-            <node x="" y="">org.apache.thrift.meta_data.SetMetaData</node>
-            <node x="" y="">org.apache.thrift.meta_data.FieldMetaData</node>
-            <node x="" y="">org.apache.thrift.meta_data.FieldValueMetaData</node>
-            <node x="" y="">java.io.Serializable</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="155.0" y="101.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/com.chen.demo.thrift.model.Person">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>com.chen.demo.thrift.model.Person</OriginalElement>
-          <nodes>
-            <node x="" y="">java.lang.Cloneable</node>
-            <node x="" y="">java.lang.SuppressWarnings</node>
-            <node x="" y="">java.io.Serializable</node>
-            <node x="" y="">javax.annotation.Generated</node>
-            <node x="" y="">java.lang.Comparable</node>
-            <node x="" y="">org.apache.thrift.TSerializable</node>
-            <node x="" y="">org.apache.thrift.TBase</node>
-            <node x="" y="">com.chen.demo.thrift.model.Person</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="435.0" y="348.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Inner Classes</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.10.0/libthrift-0.10.0-sources.jar!/org/apache/thrift/meta_data/FieldValueMetaData.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="26" column="3" selection-start-line="26" selection-start-column="3" selection-end-line="26" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.10.0/libthrift-0.10.0-sources.jar!/org/apache/thrift/ProcessFunction.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.10.0/libthrift-0.10.0-sources.jar!/org/apache/thrift/TBaseProcessor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.7/slf4j-api-1.7.7.jar!/org/slf4j/LoggerFactory.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="199" column="0" selection-start-line="199" selection-start-column="0" selection-end-line="199" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.10.0/libthrift-0.10.0-sources.jar!/org/apache/thrift/transport/TTransportFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.10.0/libthrift-0.10.0-sources.jar!/org/apache/thrift/server/TSimpleServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="65" column="29" selection-start-line="65" selection-start-column="29" selection-end-line="65" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thrift-client/src/main/java/com/chen/demo/thrift/model/QueryParameter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thrift-client/src/main/java/com/chen/demo/thrift/model/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="116" column="9" selection-start-line="116" selection-start-column="9" selection-end-line="116" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.10.0/libthrift-0.10.0-sources.jar!/org/apache/thrift/TProcessorFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="33" column="0" selection-start-line="33" selection-start-column="0" selection-end-line="33" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.10.0/libthrift-0.10.0-sources.jar!/org/apache/thrift/transport/TServerSocket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="128" column="39" selection-start-line="128" selection-start-column="39" selection-end-line="128" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/net/ServerSocket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="166">
-          <caret line="501" column="29" selection-start-line="501" selection-start-column="29" selection-end-line="501" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/jre/lib/rt.jar!/sun/net/httpserver/ServerImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2437">
-          <caret line="919" column="20" selection-start-line="919" selection-start-column="20" selection-end-line="919" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.10.0/libthrift-0.10.0-sources.jar!/org/apache/thrift/protocol/TBinaryProtocol.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="67" column="0" selection-start-line="67" selection-start-column="0" selection-end-line="67" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thrift-client/src/main/thrift/fb303.thrift">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/util/concurrent/Executor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="431">
-          <caret line="139" column="9" selection-start-line="139" selection-start-column="9" selection-end-line="139" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.10.0/libthrift-0.10.0-sources.jar!/org/apache/thrift/server/TThreadPoolServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4655">
-          <caret line="281" column="0" selection-start-line="281" selection-start-column="0" selection-end-line="281" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/org.apache.thrift.server.TServer">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>org.apache.thrift.server.TServer</OriginalElement>
-          <nodes>
-            <node x="" y="">org.apache.thrift.server.AbstractNonblockingServer.AsyncFrameBuffer</node>
-            <node x="" y="">org.apache.thrift.server.TServer.Args</node>
-            <node x="" y="">org.apache.thrift.server.THsHaServer</node>
-            <node x="" y="">org.apache.thrift.server.TThreadedSelectorServer</node>
-            <node x="" y="">org.apache.thrift.server.THsHaServer.Args</node>
-            <node x="" y="">org.apache.thrift.server.TThreadedSelectorServer.AcceptThread</node>
-            <node x="" y="">org.apache.thrift.server.TServer</node>
-            <node x="" y="">org.apache.thrift.server.TThreadedSelectorServer.SelectorThreadLoadBalancer</node>
-            <node x="" y="">org.apache.thrift.server.AbstractNonblockingServer.AbstractSelectThread</node>
-            <node x="" y="">org.apache.thrift.server.TThreadedSelectorServer.Args</node>
-            <node x="" y="">org.apache.thrift.server.TThreadedSelectorServer.SelectorThread</node>
-            <node x="" y="">org.apache.thrift.server.TThreadedSelectorServer.Args.AcceptPolicy</node>
-            <node x="" y="">org.apache.thrift.server.TThreadPoolServer</node>
-            <node x="" y="">org.apache.thrift.server.TSimpleServer</node>
-            <node x="" y="">org.apache.thrift.server.TServer.AbstractServerArgs</node>
-            <node x="" y="">org.apache.thrift.server.TNonblockingServer.Args</node>
-            <node x="" y="">org.apache.thrift.server.TNonblockingServer</node>
-            <node x="" y="">org.apache.thrift.server.AbstractNonblockingServer</node>
-            <node x="" y="">org.apache.thrift.server.TThreadPoolServer.WorkerProcess</node>
-            <node x="" y="">org.apache.thrift.server.AbstractNonblockingServer.FrameBuffer</node>
-            <node x="" y="">org.apache.thrift.server.AbstractNonblockingServer.AbstractNonblockingServerArgs</node>
-            <node x="" y="">org.apache.thrift.server.TNonblockingServer.SelectAcceptThread</node>
-            <node x="" y="">org.apache.thrift.server.TThreadPoolServer.Args</node>
-            <node x="" y="">org.apache.thrift.server.AbstractNonblockingServer.FrameBufferState</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.1" x="1291.0" y="658.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Inner Classes</Category>
-            <Category>Methods</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2.jar!/org/apache/http/impl/execchain/MainClientExec.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-342">
-          <caret line="58" column="13" selection-start-line="58" selection-start-column="13" selection-end-line="58" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2-sources.jar!/org/apache/http/auth/AuthState.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="39" column="13" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2-sources.jar!/org/apache/http/impl/execchain/ConnectionHolder.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="86" column="16" selection-start-line="86" selection-start-column="16" selection-end-line="86" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.2/httpclient-4.5.2-sources.jar!/org/apache/http/impl/execchain/MainClientExec.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1786">
-          <caret line="285" column="51" selection-start-line="285" selection-start-column="43" selection-end-line="285" selection-end-column="51" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.10.0/libthrift-0.10.0-sources.jar!/org/apache/thrift/transport/TServerTransport.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="746">
-          <caret line="63" column="0" selection-start-line="63" selection-start-column="0" selection-end-line="63" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/java.util.concurrent.CompletableFuture">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>java.util.concurrent.CompletableFuture</OriginalElement>
-          <nodes>
-            <node x="" y="">java.util.concurrent.Future</node>
-            <node x="" y="">java.util.concurrent.CompletionStage</node>
-            <node x="" y="">java.util.concurrent.CompletableFuture</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="140.0" y="60.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/java.util.concurrent.Future">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>java.util.concurrent.Future</OriginalElement>
-          <nodes>
-            <node x="" y="">java.util.concurrent.Future</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="44.0" y="18.0" />
-          <SelectedNodes />
-          <Categories />
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/util/concurrent/Future.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1406">
-          <caret line="107" column="60" selection-start-line="107" selection-start-column="60" selection-end-line="107" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/io/ObjectInputStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="41287">
-          <caret line="2218" column="26" selection-start-line="2218" selection-start-column="26" selection-end-line="2218" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/util/concurrent/CompletableFuture.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="528" column="32" selection-start-line="528" selection-start-column="32" selection-end-line="528" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/tools/maven-thrift-plugin/0.1.11/maven-thrift-plugin-0.1.11.jar!/META-INF/maven/plugin.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="356">
-          <caret line="121" column="72" selection-start-line="121" selection-start-column="62" selection-end-line="121" selection-end-column="72" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thrift-client/src/main/thrift/types.thrift">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thrift-client/src/main/thrift/model.thrift">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thrift-client/src/main/thrift/helloworld.thrift">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/maven.jar!/schemas/maven-4.0.0.xsd">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="20" column="6" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thrift-client/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="61" column="30" selection-start-line="46" selection-start-column="15" selection-end-line="61" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thrift-server/src/main/java/com/chen/demo/springboot/web/SpringbootApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="12" column="1" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/thrift-server/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -1635,49 +1510,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.10.0/libthrift-0.10.0-sources.jar!/org/apache/thrift/TProcessor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="28" column="17" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thrift-server/src/main/java/com/chen/demo/thrift/service/HelloWordServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.10.0/libthrift-0.10.0-sources.jar!/org/apache/thrift/server/TServer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="145" column="23" selection-start-line="145" selection-start-column="23" selection-end-line="145" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.10.0/libthrift-0.10.0-sources.jar!/org/apache/thrift/protocol/TMessage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.10.0/libthrift-0.10.0-sources.jar!/org/apache/thrift/TServiceClient.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="75" column="43" selection-start-line="75" selection-start-column="43" selection-end-line="75" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thrift-client/src/main/java/com/chen/demo/thrift/IHelloWorldService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="39" column="11" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/thrift-client/src/test/java/com/chen/demo/thrift/service/ThriftClientTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="271">
@@ -1686,64 +1518,1145 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/thrift-server/src/main/java/com/chen/demo/thrift/proxy/ThriftClientProxy.java">
+    <entry file="file://$PROJECT_DIR$/thrift-doc/1、thrift mac 安装">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="21" column="109" selection-start-line="21" selection-start-column="109" selection-end-line="21" selection-end-column="109" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1428#1429#0" expanded="false" />
-            <element signature="e#1455#1456#0" expanded="false" />
-            <element signature="e#1495#1496#0" expanded="false" />
-            <element signature="e#1527#1528#0" expanded="false" />
-            <element signature="e#1555#1556#0" expanded="false" />
-            <element signature="e#1582#1583#0" expanded="false" />
-            <element signature="e#1619#1620#0" expanded="false" />
-            <element signature="e#1651#1652#0" expanded="false" />
-            <element signature="e#1686#1687#0" expanded="false" />
-            <element signature="e#1722#1723#0" expanded="false" />
-            <element signature="e#1775#1776#0" expanded="false" />
-            <element signature="e#1825#1826#0" expanded="false" />
-            <element signature="e#1969#1970#0" expanded="false" />
-            <element signature="e#1996#1997#0" expanded="false" />
-            <element signature="e#2046#2047#0" expanded="false" />
-            <element signature="e#2074#2075#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thrift-server/src/test/java/com/chen/demo/thrift/service/ThriftSimpleServerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="556">
-          <caret line="40" column="24" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="25" />
+        <state relative-caret-position="342">
+          <caret line="18" column="33" selection-start-line="18" selection-start-column="33" selection-end-line="18" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/thrift-server/src/test/java/com/chen/demo/thrift/service/ThriftThreadPoolServerTest.java">
+    <entry file="file://$PROJECT_DIR$/thrift-doc/2、thrift 简介">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="22" column="64" selection-start-line="22" selection-start-column="57" selection-end-line="22" selection-end-column="64" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/thrift-server/src/main/java/com/chen/demo/thrift/listener/ThriftServerListener.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="25" column="59" selection-start-line="25" selection-start-column="59" selection-end-line="25" selection-end-column="59" />
+        <state relative-caret-position="380">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/thrift-server/src/main/java/com/chen/demo/thrift/proxy/ThriftServerProxy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="41" column="31" selection-start-line="41" selection-start-column="31" selection-end-line="41" selection-end-column="31" />
+        <state relative-caret-position="641">
+          <caret line="49" column="0" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thrift-server/src/main/java/com/chen/demo/thrift/listener/ThriftServerListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="25" column="59" selection-start-line="25" selection-start-column="59" selection-end-line="25" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.10.0/libthrift-0.10.0-sources.jar!/org/apache/thrift/transport/TServerSocket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="121" column="0" selection-start-line="121" selection-start-column="0" selection-end-line="121" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.10.0/libthrift-0.10.0-sources.jar!/org/apache/thrift/server/TSimpleServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="65" column="0" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+          <folding>
+            <element signature="e#1366#1367#0" expanded="false" />
+            <element signature="e#1387#1388#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.chen.demo.thrift.model.QueryParameter">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.chen.demo.thrift.model.QueryParameter</OriginalElement>
+          <nodes>
+            <node x="984.6973684210525" y="275.0">com.chen.demo.thrift.model.QueryParameter.QueryParameterTupleScheme</node>
+            <node x="803.1140350877191" y="85.0">java.lang.Cloneable</node>
+            <node x="736.6973684210525" y="180.0">com.chen.demo.thrift.model.QueryParameter</node>
+            <node x="602.1140350877191" y="85.0">java.lang.SuppressWarnings</node>
+            <node x="1271.6973684210525" y="275.0">com.chen.demo.thrift.model.QueryParameter.QueryParameterStandardSchemeFactory</node>
+            <node x="0.0" y="0.0">java.io.Serializable</node>
+            <node x="671.6973684210525" y="275.0">com.chen.demo.thrift.model.QueryParameter.QueryParameterStandardScheme</node>
+            <node x="939.1140350877191" y="85.0">javax.annotation.Generated</node>
+            <node x="216.6973684210525" y="275.0">com.chen.demo.thrift.model.QueryParameter._Fields</node>
+            <node x="327.6973684210525" y="275.0">com.chen.demo.thrift.model.QueryParameter.QueryParameterTupleSchemeFactory</node>
+            <node x="358.3859649122805" y="0.0">java.lang.Comparable</node>
+            <node x="147.99999999999994" y="0.0">org.apache.thrift.TSerializable</node>
+            <node x="175.99999999999994" y="85.0">org.apache.thrift.TBase</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="org.apache.thrift.TBase" target="java.io.Serializable">
+              <point x="-27.333333333333314" y="-17.5" />
+              <point x="189.66666666666663" y="65.0" />
+              <point x="106.66666666666663" y="65.0" />
+              <point x="42.66666666666666" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.model.QueryParameter.QueryParameterTupleScheme" target="com.chen.demo.thrift.model.QueryParameter">
+              <point x="0.0" y="-17.5" />
+              <point x="1118.1973684210525" y="255.0" />
+              <point x="850.7973684210525" y="255.0" />
+              <point x="32.60000000000002" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.model.QueryParameter" target="java.lang.Comparable">
+              <point x="40.75" y="-17.5" />
+              <point x="858.9473684210525" y="150.0" />
+              <point x="928.6140350877191" y="150.0" />
+              <point x="928.6140350877191" y="65.0" />
+              <point x="468.3859649122805" y="65.0" />
+              <point x="44.0" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.model.QueryParameter" target="java.lang.SuppressWarnings">
+              <point x="-13.583333333333371" y="-17.5" />
+              <point x="804.6140350877191" y="140.0" />
+              <point x="692.6140350877191" y="140.0" />
+              <point x="0.0" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.model.QueryParameter" target="org.apache.thrift.TBase">
+              <point x="-40.75" y="-17.5" />
+              <point x="777.4473684210525" y="150.0" />
+              <point x="216.99999999999994" y="150.0" />
+              <point x="0.0" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.model.QueryParameter" target="javax.annotation.Generated">
+              <point x="67.91666666666663" y="-17.5" />
+              <point x="886.1140350877191" y="160.0" />
+              <point x="998.1140350877191" y="160.0" />
+              <point x="0.0" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.model.QueryParameter" target="java.lang.Cloneable">
+              <point x="13.583333333333371" y="-17.5" />
+              <point x="831.7807017543859" y="140.0" />
+              <point x="860.6140350877191" y="140.0" />
+              <point x="0.0" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.model.QueryParameter.QueryParameterStandardSchemeFactory" target="com.chen.demo.thrift.model.QueryParameter">
+              <point x="0.0" y="-17.5" />
+              <point x="1446.6973684210525" y="245.0" />
+              <point x="883.3973684210525" y="245.0" />
+              <point x="65.20000000000005" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.model.QueryParameter._Fields" target="com.chen.demo.thrift.model.QueryParameter">
+              <point x="30.333333333333314" y="-17.5" />
+              <point x="292.5307017543858" y="245.0" />
+              <point x="752.9973684210524" y="245.0" />
+              <point x="-65.20000000000005" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.model.QueryParameter.QueryParameterTupleSchemeFactory" target="com.chen.demo.thrift.model.QueryParameter">
+              <point x="0.0" y="-17.5" />
+              <point x="489.6973684210525" y="255.0" />
+              <point x="785.5973684210525" y="255.0" />
+              <point x="-32.60000000000002" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.model.QueryParameter._Fields" target="java.lang.Comparable">
+              <point x="0.0" y="-17.5" />
+              <point x="262.1973684210525" y="235.0" />
+              <point x="371.99999999999994" y="235.0" />
+              <point x="371.99999999999994" y="65.0" />
+              <point x="424.3859649122805" y="65.0" />
+              <point x="0.0" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.model.QueryParameter.QueryParameterStandardScheme" target="com.chen.demo.thrift.model.QueryParameter">
+              <point x="0.0" y="-17.5" />
+              <point x="0.0" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.model.QueryParameter._Fields" target="java.io.Serializable">
+              <point x="-30.333333333333314" y="-17.5" />
+              <point x="231.86403508771917" y="255.0" />
+              <point x="37.16666666666663" y="255.0" />
+              <point x="37.16666666666663" y="65.0" />
+              <point x="21.33333333333337" y="65.0" />
+              <point x="-42.66666666666663" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.model.QueryParameter" target="java.io.Serializable">
+              <point x="-67.91666666666674" y="-17.5" />
+              <point x="750.2807017543857" y="160.0" />
+              <point x="48.16666666666663" y="160.0" />
+              <point x="48.16666666666663" y="65.0" />
+              <point x="64.0" y="65.0" />
+              <point x="0.0" y="17.5" />
+            </edge>
+            <edge source="org.apache.thrift.TBase" target="org.apache.thrift.TSerializable">
+              <point x="0.0" y="-17.5" />
+              <point x="0.0" y="17.5" />
+            </edge>
+            <edge source="org.apache.thrift.TBase" target="java.lang.Comparable">
+              <point x="27.333333333333343" y="-17.5" />
+              <point x="244.33333333333326" y="55.0" />
+              <point x="380.3859649122805" y="55.0" />
+              <point x="-44.0" y="17.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-40.0" y="132.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thrift-client/src/main/thrift/model.thrift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.chen.demo.thrift.model.Person">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.chen.demo.thrift.model.Person</OriginalElement>
+          <nodes>
+            <node x="453.9999999999999" y="275.0">com.chen.demo.thrift.model.Person.PersonTupleSchemeFactory</node>
+            <node x="317.2894736842104" y="85.0">java.lang.Cloneable</node>
+            <node x="1021.9999999999999" y="275.0">com.chen.demo.thrift.model.Person._Fields</node>
+            <node x="453.2894736842104" y="85.0">java.lang.SuppressWarnings</node>
+            <node x="213.9999999999999" y="275.0">com.chen.demo.thrift.model.Person.PersonStandardScheme</node>
+            <node x="0.0" y="275.0">com.chen.demo.thrift.model.Person.PersonTupleScheme</node>
+            <node x="852.456140350877" y="0.0">java.io.Serializable</node>
+            <node x="654.2894736842104" y="85.0">javax.annotation.Generated</node>
+            <node x="724.9999999999999" y="275.0">com.chen.demo.thrift.model.Person.PersonStandardSchemeFactory</node>
+            <node x="1203.5263157894735" y="0.0">java.lang.Comparable</node>
+            <node x="1045.5263157894735" y="0.0">org.apache.thrift.TSerializable</node>
+            <node x="1073.5263157894735" y="85.0">org.apache.thrift.TBase</node>
+            <node x="534.4999999999999" y="180.0">com.chen.demo.thrift.model.Person</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.chen.demo.thrift.model.Person" target="java.lang.Cloneable">
+              <point x="-37.5" y="-17.5" />
+              <point x="541.9999999999999" y="160.0" />
+              <point x="374.7894736842104" y="160.0" />
+              <point x="0.0" y="17.5" />
+            </edge>
+            <edge source="org.apache.thrift.TBase" target="java.io.Serializable">
+              <point x="-27.333333333333258" y="-17.5" />
+              <point x="1087.1929824561403" y="55.0" />
+              <point x="959.1228070175437" y="55.0" />
+              <point x="42.66666666666663" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.model.Person._Fields" target="java.io.Serializable">
+              <point x="0.0" y="-17.5" />
+              <point x="1067.5" y="235.0" />
+              <point x="961.5263157894735" y="235.0" />
+              <point x="961.5263157894735" y="65.0" />
+              <point x="916.456140350877" y="65.0" />
+              <point x="0.0" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.model.Person.PersonTupleSchemeFactory" target="com.chen.demo.thrift.model.Person">
+              <point x="0.0" y="-17.5" />
+              <point x="0.0" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.model.Person.PersonTupleScheme" target="com.chen.demo.thrift.model.Person">
+              <point x="0.0" y="-17.5" />
+              <point x="97.0" y="245.0" />
+              <point x="543.4999999999999" y="245.0" />
+              <point x="-36.0" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.model.Person" target="java.lang.Comparable">
+              <point x="37.5" y="-17.5" />
+              <point x="616.9999999999999" y="160.0" />
+              <point x="1286.0263157894735" y="160.0" />
+              <point x="1286.0263157894735" y="65.0" />
+              <point x="1269.5263157894735" y="65.0" />
+              <point x="0.0" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.model.Person" target="org.apache.thrift.TBase">
+              <point x="22.5" y="-17.5" />
+              <point x="601.9999999999999" y="150.0" />
+              <point x="1114.5263157894735" y="150.0" />
+              <point x="0.0" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.model.Person" target="javax.annotation.Generated">
+              <point x="7.5" y="-17.5" />
+              <point x="586.9999999999999" y="140.0" />
+              <point x="713.2894736842104" y="140.0" />
+              <point x="0.0" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.model.Person._Fields" target="java.lang.Comparable">
+              <point x="30.33333333333323" y="-17.5" />
+              <point x="1097.833333333333" y="255.0" />
+              <point x="1297.0263157894735" y="255.0" />
+              <point x="1297.0263157894735" y="65.0" />
+              <point x="1313.5263157894735" y="65.0" />
+              <point x="44.0" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.model.Person.PersonStandardSchemeFactory" target="com.chen.demo.thrift.model.Person">
+              <point x="0.0" y="-17.5" />
+              <point x="863.4999999999999" y="255.0" />
+              <point x="597.4999999999999" y="255.0" />
+              <point x="18.0" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.model.Person" target="java.lang.SuppressWarnings">
+              <point x="-7.5" y="-17.5" />
+              <point x="571.9999999999999" y="140.0" />
+              <point x="543.7894736842104" y="140.0" />
+              <point x="0.0" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.model.Person.PersonStandardScheme" target="com.chen.demo.thrift.model.Person">
+              <point x="0.0" y="-17.5" />
+              <point x="323.9999999999999" y="255.0" />
+              <point x="561.4999999999999" y="255.0" />
+              <point x="-18.0" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.model.Person" target="java.io.Serializable">
+              <point x="-22.5" y="-17.5" />
+              <point x="556.9999999999999" y="150.0" />
+              <point x="442.7894736842104" y="150.0" />
+              <point x="442.7894736842104" y="65.0" />
+              <point x="873.7894736842104" y="65.0" />
+              <point x="-42.66666666666663" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.model.Person._Fields" target="com.chen.demo.thrift.model.Person">
+              <point x="-30.333333333333258" y="-17.5" />
+              <point x="1037.1666666666667" y="245.0" />
+              <point x="615.4999999999999" y="245.0" />
+              <point x="36.0" y="17.5" />
+            </edge>
+            <edge source="org.apache.thrift.TBase" target="org.apache.thrift.TSerializable">
+              <point x="0.0" y="-17.5" />
+              <point x="0.0" y="17.5" />
+            </edge>
+            <edge source="org.apache.thrift.TBase" target="java.lang.Comparable">
+              <point x="27.333333333333258" y="-17.5" />
+              <point x="1141.8596491228068" y="65.0" />
+              <point x="1225.5263157894735" y="65.0" />
+              <point x="-44.0" y="17.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="227.0" y="-28.0" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/java/lang/SuppressWarnings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="53" column="34" selection-start-line="53" selection-start-column="18" selection-end-line="53" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_111.jdk/Contents/Home/src.zip!/javax/annotation/Generated.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="39" column="36" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="36" />
+          <folding>
+            <element signature="e#0#1939#0" expanded="false" />
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.10.0/libthrift-0.10.0-sources.jar!/org/apache/thrift/scheme/StandardScheme.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#953#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.chen.demo.thrift.model.Person.PersonStandardScheme">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.chen.demo.thrift.model.Person.PersonStandardScheme</OriginalElement>
+          <nodes>
+            <node x="59.0" y="0.0">org.apache.thrift.scheme.IScheme</node>
+            <node x="0.0" y="170.0">com.chen.demo.thrift.model.Person.PersonStandardScheme</node>
+            <node x="26.5" y="85.0">org.apache.thrift.scheme.StandardScheme</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.chen.demo.thrift.model.Person.PersonStandardScheme" target="org.apache.thrift.scheme.StandardScheme">
+              <point x="0.0" y="-17.5" />
+              <point x="0.0" y="17.5" />
+            </edge>
+            <edge source="org.apache.thrift.scheme.StandardScheme" target="org.apache.thrift.scheme.IScheme">
+              <point x="0.0" y="-17.5" />
+              <point x="0.0" y="17.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-344.0" y="-33.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.10.0/libthrift-0.10.0-sources.jar!/org/apache/thrift/scheme/TupleScheme.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="22" column="22" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.chen.demo.thrift.model.Person.PersonTupleScheme">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.chen.demo.thrift.model.Person.PersonTupleScheme</OriginalElement>
+          <nodes>
+            <node x="" y="">org.apache.thrift.scheme.IScheme</node>
+            <node x="" y="">org.apache.thrift.scheme.TupleScheme</node>
+            <node x="" y="">com.chen.demo.thrift.model.Person.PersonTupleScheme</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="97.0" y="102.5" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.10.0/libthrift-0.10.0-sources.jar!/org/apache/thrift/protocol/TField.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="261">
+          <caret line="38" column="22" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thrift-client/src/main/java/com/chen/demo/thrift/model/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="529" column="29" selection-start-line="529" selection-start-column="28" selection-end-line="529" selection-end-column="30" />
+          <folding>
+            <element signature="method#write#0;class#PersonStandardScheme#0;class#Person#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thrift-client/src/main/java/com/chen/demo/thrift/model/QueryParameter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.chen.demo.thrift.IHelloWorldService">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.chen.demo.thrift.IHelloWorldService</OriginalElement>
+          <nodes>
+            <node x="2828.0" y="370.0">com.chen.demo.thrift.IHelloWorldService.AsyncClient.getPersonList_call</node>
+            <node x="5599.0" y="285.0">com.chen.demo.thrift.IHelloWorldService.getPersonList_args.getPersonList_argsStandardSchemeFactory</node>
+            <node x="4955.0" y="285.0">com.chen.demo.thrift.IHelloWorldService.getPersonList_args.getPersonList_argsStandardScheme</node>
+            <node x="1027.0" y="285.0">com.chen.demo.thrift.IHelloWorldService.sayHello_args.sayHello_argsTupleSchemeFactory</node>
+            <node x="5991.0" y="285.0">com.chen.demo.thrift.IHelloWorldService.getPersonList_args.getPersonList_argsTupleSchemeFactory</node>
+            <node x="2822.5" y="200.0">com.chen.demo.thrift.IHelloWorldService.AsyncIface</node>
+            <node x="2125.0" y="285.0">com.chen.demo.thrift.IHelloWorldService.sayHello_result.sayHello_resultTupleSchemeFactory</node>
+            <node x="0.0" y="285.0">com.chen.demo.thrift.IHelloWorldService.sayHello_args.sayHello_argsStandardSchemeFactory</node>
+            <node x="2773.25" y="0.0">javax.annotation.Generated</node>
+            <node x="1819.0" y="285.0">com.chen.demo.thrift.IHelloWorldService.sayHello_result.sayHello_resultStandardScheme</node>
+            <node x="758.0" y="285.0">com.chen.demo.thrift.IHelloWorldService.sayHello_args.sayHello_argsTupleScheme</node>
+            <node x="3001.0" y="285.0">com.chen.demo.thrift.IHelloWorldService.getPersonList_result._Fields</node>
+            <node x="3026.0" y="370.0">com.chen.demo.thrift.IHelloWorldService.AsyncClient.sayHello_call</node>
+            <node x="4844.0" y="285.0">com.chen.demo.thrift.IHelloWorldService.getPersonList_args._Fields</node>
+            <node x="1347.5" y="370.0">com.chen.demo.thrift.IHelloWorldService.Client.Factory</node>
+            <node x="6520.0" y="285.0">com.chen.demo.thrift.IHelloWorldService.Processor.sayHello</node>
+            <node x="4558.0" y="285.0">com.chen.demo.thrift.IHelloWorldService.AsyncProcessor.getPersonList</node>
+            <node x="3778.0" y="285.0">com.chen.demo.thrift.IHelloWorldService.getPersonList_result.getPersonList_resultTupleSchemeFactory</node>
+            <node x="3497.0" y="200.0">com.chen.demo.thrift.IHelloWorldService.getPersonList_result</node>
+            <node x="2462.0" y="285.0">com.chen.demo.thrift.IHelloWorldService.sayHello_result._Fields</node>
+            <node x="2487.8222868217044" y="370.0">com.chen.demo.thrift.IHelloWorldService.AsyncClient.Factory</node>
+            <node x="3112.0" y="285.0">com.chen.demo.thrift.IHelloWorldService.getPersonList_result.getPersonList_resultTupleScheme</node>
+            <node x="1353.0" y="285.0">com.chen.demo.thrift.IHelloWorldService.Client</node>
+            <node x="2911.25" y="0.0">java.lang.SuppressWarnings</node>
+            <node x="2573.0" y="285.0">com.chen.demo.thrift.IHelloWorldService.sayHello_result.sayHello_resultTupleScheme</node>
+            <node x="2853.0" y="285.0">com.chen.demo.thrift.IHelloWorldService.AsyncClient</node>
+            <node x="647.0" y="285.0">com.chen.demo.thrift.IHelloWorldService.sayHello_args._Fields</node>
+            <node x="5342.0" y="200.0">com.chen.demo.thrift.IHelloWorldService.getPersonList_args</node>
+            <node x="2825.0" y="85.0">com.chen.demo.thrift.IHelloWorldService</node>
+            <node x="5290.0" y="285.0">com.chen.demo.thrift.IHelloWorldService.getPersonList_args.getPersonList_argsTupleScheme</node>
+            <node x="2205.5" y="200.0">com.chen.demo.thrift.IHelloWorldService.sayHello_result</node>
+            <node x="4721.0" y="285.0">com.chen.demo.thrift.IHelloWorldService.AsyncProcessor.sayHello</node>
+            <node x="4622.0" y="200.0">com.chen.demo.thrift.IHelloWorldService.AsyncProcessor</node>
+            <node x="1333.75" y="200.0">com.chen.demo.thrift.IHelloWorldService.Iface</node>
+            <node x="3432.0" y="285.0">com.chen.demo.thrift.IHelloWorldService.getPersonList_result.getPersonList_resultStandardScheme</node>
+            <node x="620.0" y="200.0">com.chen.demo.thrift.IHelloWorldService.sayHello_args</node>
+            <node x="352.0" y="285.0">com.chen.demo.thrift.IHelloWorldService.sayHello_args.sayHello_argsStandardScheme</node>
+            <node x="1456.0" y="285.0">com.chen.demo.thrift.IHelloWorldService.sayHello_result.sayHello_resultStandardSchemeFactory</node>
+            <node x="6357.0" y="285.0">com.chen.demo.thrift.IHelloWorldService.Processor.getPersonList</node>
+            <node x="4155.0" y="285.0">com.chen.demo.thrift.IHelloWorldService.getPersonList_result.getPersonList_resultStandardSchemeFactory</node>
+            <node x="6443.5" y="200.0">com.chen.demo.thrift.IHelloWorldService.Processor</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.chen.demo.thrift.IHelloWorldService.Client.Factory" target="com.chen.demo.thrift.IHelloWorldService.Client">
+              <point x="0.0" y="-17.5" />
+              <point x="0.0" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.IHelloWorldService.Processor.sayHello" target="com.chen.demo.thrift.IHelloWorldService.Processor">
+              <point x="0.0" y="-17.5" />
+              <point x="6571.5" y="265.0" />
+              <point x="6528.25" y="265.0" />
+              <point x="28.25" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.IHelloWorldService" target="javax.annotation.Generated">
+              <point x="-46.0" y="-17.5" />
+              <point x="2871.0" y="60.0" />
+              <point x="2832.25" y="60.0" />
+              <point x="0.0" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.IHelloWorldService.Processor.getPersonList" target="com.chen.demo.thrift.IHelloWorldService.Processor">
+              <point x="0.0" y="-17.5" />
+              <point x="6428.5" y="265.0" />
+              <point x="6471.75" y="265.0" />
+              <point x="-28.25" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.IHelloWorldService.sayHello_result" target="com.chen.demo.thrift.IHelloWorldService">
+              <point x="0.0" y="-17.5" />
+              <point x="2283.5" y="170.0" />
+              <point x="2889.4" y="170.0" />
+              <point x="-27.59999999999991" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.IHelloWorldService.sayHello_args" target="com.chen.demo.thrift.IHelloWorldService">
+              <point x="0.0" y="-17.5" />
+              <point x="692.5" y="140.0" />
+              <point x="2834.2" y="140.0" />
+              <point x="-82.80000000000018" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.IHelloWorldService.getPersonList_result.getPersonList_resultStandardScheme" target="com.chen.demo.thrift.IHelloWorldService.getPersonList_result">
+              <point x="0.0" y="-17.5" />
+              <point x="0.0" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.IHelloWorldService.sayHello_args._Fields" target="com.chen.demo.thrift.IHelloWorldService.sayHello_args">
+              <point x="0.0" y="-17.5" />
+              <point x="0.0" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.IHelloWorldService.getPersonList_args.getPersonList_argsStandardSchemeFactory" target="com.chen.demo.thrift.IHelloWorldService.getPersonList_args">
+              <point x="0.0" y="-17.5" />
+              <point x="5785.0" y="265.0" />
+              <point x="5471.5" y="265.0" />
+              <point x="37.0" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.IHelloWorldService.AsyncClient" target="com.chen.demo.thrift.IHelloWorldService.AsyncIface">
+              <point x="-32.0" y="-17.5" />
+              <point x="2885.0" y="265.0" />
+              <point x="2882.0" y="265.0" />
+              <point x="0.0" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.IHelloWorldService.Processor" target="com.chen.demo.thrift.IHelloWorldService">
+              <point x="0.0" y="-17.5" />
+              <point x="6500.0" y="140.0" />
+              <point x="2999.8" y="140.0" />
+              <point x="82.80000000000018" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.IHelloWorldService.getPersonList_result" target="com.chen.demo.thrift.IHelloWorldService">
+              <point x="0.0" y="-17.5" />
+              <point x="3595.0" y="170.0" />
+              <point x="2944.6" y="170.0" />
+              <point x="27.59999999999991" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.IHelloWorldService.AsyncProcessor.sayHello" target="com.chen.demo.thrift.IHelloWorldService.AsyncProcessor">
+              <point x="0.0" y="-17.5" />
+              <point x="4772.5" y="265.0" />
+              <point x="4740.5" y="265.0" />
+              <point x="39.5" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.IHelloWorldService.getPersonList_result.getPersonList_resultTupleSchemeFactory" target="com.chen.demo.thrift.IHelloWorldService.getPersonList_result">
+              <point x="0.0" y="-17.5" />
+              <point x="3956.5" y="265.0" />
+              <point x="3634.2" y="265.0" />
+              <point x="39.19999999999982" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.IHelloWorldService.AsyncProcessor.getPersonList" target="com.chen.demo.thrift.IHelloWorldService.AsyncProcessor">
+              <point x="0.0" y="-17.5" />
+              <point x="4629.5" y="265.0" />
+              <point x="4661.5" y="265.0" />
+              <point x="-39.5" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.IHelloWorldService.sayHello_args.sayHello_argsTupleScheme" target="com.chen.demo.thrift.IHelloWorldService.sayHello_args">
+              <point x="0.0" y="-17.5" />
+              <point x="882.5" y="265.0" />
+              <point x="721.5" y="265.0" />
+              <point x="29.0" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.IHelloWorldService.sayHello_args.sayHello_argsTupleSchemeFactory" target="com.chen.demo.thrift.IHelloWorldService.sayHello_args">
+              <point x="0.0" y="-17.5" />
+              <point x="1180.0" y="255.0" />
+              <point x="750.5" y="255.0" />
+              <point x="58.0" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.IHelloWorldService.sayHello_args.sayHello_argsStandardSchemeFactory" target="com.chen.demo.thrift.IHelloWorldService.sayHello_args">
+              <point x="0.0" y="-17.5" />
+              <point x="166.0" y="255.0" />
+              <point x="634.5" y="255.0" />
+              <point x="-58.0" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.IHelloWorldService.Iface" target="com.chen.demo.thrift.IHelloWorldService">
+              <point x="0.0" y="-17.5" />
+              <point x="1370.75" y="150.0" />
+              <point x="2852.6" y="150.0" />
+              <point x="-64.40000000000009" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.IHelloWorldService.getPersonList_args.getPersonList_argsTupleSchemeFactory" target="com.chen.demo.thrift.IHelloWorldService.getPersonList_args">
+              <point x="0.0" y="-17.5" />
+              <point x="6164.0" y="255.0" />
+              <point x="5508.5" y="255.0" />
+              <point x="74.0" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.IHelloWorldService.getPersonList_args" target="com.chen.demo.thrift.IHelloWorldService">
+              <point x="0.0" y="-17.5" />
+              <point x="5434.5" y="150.0" />
+              <point x="2981.4" y="150.0" />
+              <point x="64.40000000000009" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.IHelloWorldService.sayHello_args.sayHello_argsStandardScheme" target="com.chen.demo.thrift.IHelloWorldService.sayHello_args">
+              <point x="0.0" y="-17.5" />
+              <point x="489.5" y="265.0" />
+              <point x="663.5" y="265.0" />
+              <point x="-29.0" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.IHelloWorldService.getPersonList_result.getPersonList_resultStandardSchemeFactory" target="com.chen.demo.thrift.IHelloWorldService.getPersonList_result">
+              <point x="0.0" y="-17.5" />
+              <point x="4346.5" y="255.0" />
+              <point x="3673.4" y="255.0" />
+              <point x="78.40000000000009" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.IHelloWorldService.AsyncClient.sayHello_call" target="com.chen.demo.thrift.IHelloWorldService.AsyncClient">
+              <point x="0.0" y="-17.5" />
+              <point x="3095.0" y="345.0" />
+              <point x="2959.6666666666665" y="345.0" />
+              <point x="42.666666666666515" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.IHelloWorldService.getPersonList_args.getPersonList_argsTupleScheme" target="com.chen.demo.thrift.IHelloWorldService.getPersonList_args">
+              <point x="0.0" y="-17.5" />
+              <point x="0.0" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.IHelloWorldService.sayHello_result.sayHello_resultTupleScheme" target="com.chen.demo.thrift.IHelloWorldService.sayHello_result">
+              <point x="0.0" y="-17.5" />
+              <point x="2703.0" y="255.0" />
+              <point x="2345.9" y="255.0" />
+              <point x="62.40000000000009" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.IHelloWorldService.Client" target="com.chen.demo.thrift.IHelloWorldService">
+              <point x="20.75" y="-17.5" />
+              <point x="1415.25" y="265.0" />
+              <point x="1418.25" y="265.0" />
+              <point x="1418.25" y="160.0" />
+              <point x="2871.0" y="160.0" />
+              <point x="-46.0" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.IHelloWorldService.getPersonList_args._Fields" target="com.chen.demo.thrift.IHelloWorldService.getPersonList_args">
+              <point x="0.0" y="-17.5" />
+              <point x="4889.5" y="255.0" />
+              <point x="5360.5" y="255.0" />
+              <point x="-74.0" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.IHelloWorldService.AsyncClient.Factory" target="com.chen.demo.thrift.IHelloWorldService.AsyncClient">
+              <point x="0.0" y="-17.5" />
+              <point x="2534.8222868217044" y="345.0" />
+              <point x="2874.3333333333335" y="345.0" />
+              <point x="-42.666666666666515" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.IHelloWorldService.AsyncClient.getPersonList_call" target="com.chen.demo.thrift.IHelloWorldService.AsyncClient">
+              <point x="0.0" y="-17.5" />
+              <point x="0.0" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.IHelloWorldService.sayHello_result.sayHello_resultStandardScheme" target="com.chen.demo.thrift.IHelloWorldService.sayHello_result">
+              <point x="0.0" y="-17.5" />
+              <point x="1962.0" y="265.0" />
+              <point x="2252.3" y="265.0" />
+              <point x="-31.199999999999818" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.IHelloWorldService.AsyncIface" target="com.chen.demo.thrift.IHelloWorldService">
+              <point x="0.0" y="-17.5" />
+              <point x="2882.0" y="180.0" />
+              <point x="2907.8" y="180.0" />
+              <point x="-9.199999999999818" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.IHelloWorldService.sayHello_result.sayHello_resultStandardSchemeFactory" target="com.chen.demo.thrift.IHelloWorldService.sayHello_result">
+              <point x="0.0" y="-17.5" />
+              <point x="1627.5" y="255.0" />
+              <point x="2221.1" y="255.0" />
+              <point x="-62.40000000000009" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.IHelloWorldService.sayHello_result._Fields" target="com.chen.demo.thrift.IHelloWorldService.sayHello_result">
+              <point x="0.0" y="-17.5" />
+              <point x="2507.5" y="265.0" />
+              <point x="2314.7" y="265.0" />
+              <point x="31.199999999999818" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.IHelloWorldService.sayHello_result.sayHello_resultTupleSchemeFactory" target="com.chen.demo.thrift.IHelloWorldService.sayHello_result">
+              <point x="0.0" y="-17.5" />
+              <point x="0.0" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.IHelloWorldService.AsyncProcessor" target="com.chen.demo.thrift.IHelloWorldService">
+              <point x="0.0" y="-17.5" />
+              <point x="4701.0" y="160.0" />
+              <point x="2963.0" y="160.0" />
+              <point x="46.0" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.IHelloWorldService.getPersonList_result.getPersonList_resultTupleScheme" target="com.chen.demo.thrift.IHelloWorldService.getPersonList_result">
+              <point x="0.0" y="-17.5" />
+              <point x="3262.0" y="265.0" />
+              <point x="3555.8" y="265.0" />
+              <point x="-39.19999999999982" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.IHelloWorldService.getPersonList_args.getPersonList_argsStandardScheme" target="com.chen.demo.thrift.IHelloWorldService.getPersonList_args">
+              <point x="0.0" y="-17.5" />
+              <point x="5112.5" y="265.0" />
+              <point x="5397.5" y="265.0" />
+              <point x="-37.0" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.IHelloWorldService.getPersonList_result._Fields" target="com.chen.demo.thrift.IHelloWorldService.getPersonList_result">
+              <point x="0.0" y="-17.5" />
+              <point x="3046.5" y="255.0" />
+              <point x="3516.6" y="255.0" />
+              <point x="-78.40000000000009" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.IHelloWorldService.Client" target="com.chen.demo.thrift.IHelloWorldService.Iface">
+              <point x="-20.75" y="-17.5" />
+              <point x="1373.75" y="265.0" />
+              <point x="1370.75" y="265.0" />
+              <point x="0.0" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.IHelloWorldService.AsyncClient" target="com.chen.demo.thrift.IHelloWorldService">
+              <point x="32.0" y="-17.5" />
+              <point x="2949.0" y="265.0" />
+              <point x="2952.0" y="265.0" />
+              <point x="2952.0" y="180.0" />
+              <point x="2926.2" y="180.0" />
+              <point x="9.199999999999818" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.IHelloWorldService" target="java.lang.SuppressWarnings">
+              <point x="46.0" y="-17.5" />
+              <point x="2963.0" y="60.0" />
+              <point x="3001.75" y="60.0" />
+              <point x="0.0" y="17.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="0.9" x="2023.5555555555552" y="29.94444444444457" />
+          <SelectedNodes />
+          <Categories>
+            <Category>Inner Classes</Category>
+          </Categories>
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thrift-client/src/main/thrift/helloworld.thrift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="1" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.10.0/libthrift-0.10.0-sources.jar!/org/apache/thrift/protocol/TMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.10.0/libthrift-0.10.0-sources.jar!/org/apache/thrift/protocol/TMessageType.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="31" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thrift-server/src/main/java/com/chen/demo/thrift/proxy/ThriftClientProxy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="39" column="50" selection-start-line="39" selection-start-column="37" selection-end-line="39" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/org.apache.thrift.server.TServer">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>org.apache.thrift.server.TServer</OriginalElement>
+          <nodes>
+            <node x="" y="">org.apache.thrift.server.THsHaServer</node>
+            <node x="" y="">org.apache.thrift.server.TNonblockingServer</node>
+            <node x="" y="">org.apache.thrift.server.AbstractNonblockingServer</node>
+            <node x="" y="">org.apache.thrift.server.TThreadedSelectorServer</node>
+            <node x="" y="">org.apache.thrift.server.TThreadPoolServer</node>
+            <node x="" y="">org.apache.thrift.server.TServer</node>
+            <node x="" y="">org.apache.thrift.server.TSimpleServer</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="67.0" y="77.5" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.10.0/libthrift-0.10.0-sources.jar!/org/apache/thrift/server/TServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="589">
+          <caret line="57" column="13" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thrift-server/src/main/java/com/chen/demo/thrift/service/HelloWordServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.chen.demo.thrift.IHelloWorldService.Processor">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.chen.demo.thrift.IHelloWorldService.Processor</OriginalElement>
+          <nodes>
+            <node x="223.00000000000006" y="85.0">org.apache.thrift.TMultiplexedProcessor</node>
+            <node x="22.5" y="170.0">com.chen.demo.thrift.IHelloWorldService.AsyncProcessor</node>
+            <node x="0.0" y="85.0">org.apache.thrift.TBaseAsyncProcessor</node>
+            <node x="459.00000000000006" y="85.0">org.apache.thrift.TBaseProcessor</node>
+            <node x="526.25" y="170.0">com.chen.demo.thrift.IHelloWorldService.Processor</node>
+            <node x="373.00000000000006" y="0.0">org.apache.thrift.TProcessor</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="com.chen.demo.thrift.IHelloWorldService.Processor" target="org.apache.thrift.TBaseProcessor">
+              <point x="-28.25" y="-17.5" />
+              <point x="554.5" y="145.0" />
+              <point x="538.0" y="145.0" />
+              <point x="0.0" y="17.5" />
+            </edge>
+            <edge source="org.apache.thrift.TMultiplexedProcessor" target="org.apache.thrift.TProcessor">
+              <point x="0.0" y="-17.5" />
+              <point x="331.00000000000006" y="65.0" />
+              <point x="419.12500000000006" y="65.0" />
+              <point x="-15.375" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.IHelloWorldService.AsyncProcessor" target="org.apache.thrift.TBaseAsyncProcessor">
+              <point x="0.0" y="-17.5" />
+              <point x="0.0" y="17.5" />
+            </edge>
+            <edge source="org.apache.thrift.TBaseAsyncProcessor" target="org.apache.thrift.TProcessor">
+              <point x="0.0" y="-17.5" />
+              <point x="101.5" y="55.0" />
+              <point x="388.37500000000006" y="55.0" />
+              <point x="-46.125" y="17.5" />
+            </edge>
+            <edge source="com.chen.demo.thrift.IHelloWorldService.Processor" target="org.apache.thrift.TProcessor">
+              <point x="28.25" y="-17.5" />
+              <point x="611.0" y="145.0" />
+              <point x="627.5" y="145.0" />
+              <point x="627.5" y="55.0" />
+              <point x="480.62500000000006" y="55.0" />
+              <point x="46.125" y="17.5" />
+            </edge>
+            <edge source="org.apache.thrift.TBaseProcessor" target="org.apache.thrift.TProcessor">
+              <point x="0.0" y="-17.5" />
+              <point x="538.0" y="65.0" />
+              <point x="449.87500000000006" y="65.0" />
+              <point x="15.375" y="17.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="-361.0" y="-33.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/org.apache.thrift.TServiceClient">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>org.apache.thrift.TServiceClient</OriginalElement>
+          <nodes>
+            <node x="0.0" y="0.0">org.apache.thrift.TServiceClient</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="-380.0" y="-118.0" />
+          <SelectedNodes>
+            <node>org.apache.thrift.TServiceClient</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.10.0/libthrift-0.10.0-sources.jar!/org/apache/thrift/ProcessFunction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+          <folding>
+            <element signature="e#527#528#0" expanded="true" />
+            <element signature="e#565#566#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.10.0/libthrift-0.10.0-sources.jar!/org/apache/thrift/TBaseProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="27" column="11" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/org.apache.thrift.TProcessor">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>org.apache.thrift.TProcessor</OriginalElement>
+          <nodes>
+            <node x="" y="">org.apache.thrift.TProcessor</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="61.5" y="17.5" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.10.0/libthrift-0.10.0-sources.jar!/org/apache/thrift/TProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="28" column="22" selection-start-line="28" selection-start-column="17" selection-end-line="28" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/org.apache.thrift.protocol.TProtocol">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>org.apache.thrift.protocol.TProtocol</OriginalElement>
+          <nodes>
+            <node x="0.0" y="85.0">org.apache.thrift.protocol.TJSONProtocol</node>
+            <node x="523.8333333333333" y="0.0">org.apache.thrift.protocol.TProtocol</node>
+            <node x="690.3333333333333" y="85.0">org.apache.thrift.protocol.TSimpleJSONProtocol</node>
+            <node x="501.8333333333333" y="170.0">org.apache.thrift.protocol.TTupleProtocol</node>
+            <node x="489.3333333333333" y="85.0">org.apache.thrift.protocol.TCompactProtocol</node>
+            <node x="36.833333333333314" y="170.0">org.apache.thrift.protocol.TMultiplexedProtocol</node>
+            <node x="170.0" y="85.0">org.apache.thrift.protocol.TProtocolDecorator</node>
+            <node x="913.3333333333333" y="85.0">org.apache.thrift.protocol.TBinaryProtocol</node>
+            <node x="261.8333333333333" y="170.0">org.apache.thrift.TMultiplexedProcessor.StoredMessageProtocol</node>
+          </nodes>
+          <notes />
+          <edges>
+            <edge source="org.apache.thrift.protocol.TProtocolDecorator" target="org.apache.thrift.protocol.TProtocol">
+              <point x="0.0" y="-17.5" />
+              <point x="265.0" y="65.0" />
+              <point x="557.4333333333334" y="65.0" />
+              <point x="-22.399999999999977" y="17.5" />
+            </edge>
+            <edge source="org.apache.thrift.protocol.TSimpleJSONProtocol" target="org.apache.thrift.protocol.TProtocol">
+              <point x="0.0" y="-17.5" />
+              <point x="791.8333333333333" y="65.0" />
+              <point x="602.2333333333333" y="65.0" />
+              <point x="22.399999999999977" y="17.5" />
+            </edge>
+            <edge source="org.apache.thrift.protocol.TMultiplexedProtocol" target="org.apache.thrift.protocol.TProtocolDecorator">
+              <point x="0.0" y="-17.5" />
+              <point x="139.33333333333331" y="145.0" />
+              <point x="217.5" y="145.0" />
+              <point x="-47.5" y="17.5" />
+            </edge>
+            <edge source="org.apache.thrift.protocol.TCompactProtocol" target="org.apache.thrift.protocol.TProtocol">
+              <point x="0.0" y="-17.5" />
+              <point x="0.0" y="17.5" />
+            </edge>
+            <edge source="org.apache.thrift.protocol.TBinaryProtocol" target="org.apache.thrift.protocol.TProtocol">
+              <point x="1.1368683772161603E-13" y="-17.5" />
+              <point x="993.3333333333335" y="55.0" />
+              <point x="624.6333333333334" y="55.0" />
+              <point x="44.80000000000007" y="17.5" />
+            </edge>
+            <edge source="org.apache.thrift.protocol.TJSONProtocol" target="org.apache.thrift.protocol.TProtocol">
+              <point x="0.0" y="-17.5" />
+              <point x="75.0" y="55.0" />
+              <point x="535.0333333333333" y="55.0" />
+              <point x="-44.799999999999955" y="17.5" />
+            </edge>
+            <edge source="org.apache.thrift.protocol.TTupleProtocol" target="org.apache.thrift.protocol.TCompactProtocol">
+              <point x="0.0" y="-17.5" />
+              <point x="0.0" y="17.5" />
+            </edge>
+            <edge source="org.apache.thrift.TMultiplexedProcessor.StoredMessageProtocol" target="org.apache.thrift.protocol.TProtocolDecorator">
+              <point x="0.0" y="-17.5" />
+              <point x="371.8333333333333" y="145.0" />
+              <point x="312.5" y="145.0" />
+              <point x="47.5" y="17.5" />
+            </edge>
+          </edges>
+          <settings layout="Hierarchic Group" zoom="1.0" x="247.0" y="17.5" />
+          <SelectedNodes>
+            <node>org.apache.thrift.protocol.TBinaryProtocol</node>
+          </SelectedNodes>
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thrift-server/src/test/java/com/chen/demo/thrift/service/ThriftSimpleServerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="385">
+          <caret line="31" column="32" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thrift-server/src/test/java/com/chen/demo/thrift/service/ThriftThreadPoolServerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="556">
+          <caret line="49" column="22" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.10.0/libthrift-0.10.0-sources.jar!/org/apache/thrift/server/TThreadPoolServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-24">
+          <caret line="143" column="14" selection-start-line="143" selection-start-column="14" selection-end-line="143" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="uml://JAVA/com.chen.demo.thrift.IHelloWorldService.Client">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>JAVA</ID>
+          <OriginalElement>com.chen.demo.thrift.IHelloWorldService.Client</OriginalElement>
+          <nodes>
+            <node x="" y="">org.apache.thrift.TServiceClient</node>
+            <node x="" y="">com.chen.demo.thrift.IHelloWorldService.Client</node>
+            <node x="" y="">com.chen.demo.thrift.service.HelloWordServiceImpl</node>
+            <node x="" y="">com.chen.demo.thrift.IHelloWorldService.Iface</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="1.0" x="121.0" y="60.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+          <VISIBILITY>private</VISIBILITY>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.10.0/libthrift-0.10.0-sources.jar!/org/apache/thrift/TServiceClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="69" column="19" selection-start-line="69" selection-start-column="19" selection-end-line="69" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.10.0/libthrift-0.10.0-sources.jar!/org/apache/thrift/transport/TTransport.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="153" column="13" selection-start-line="153" selection-start-column="13" selection-end-line="153" selection-end-column="13" />
+          <folding>
+            <element signature="e#4633#4634#0" expanded="true" />
+            <element signature="e#4652#4653#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thrift-client/src/main/java/com/chen/demo/thrift/IHelloWorldService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="1863" column="138" selection-start-line="1863" selection-start-column="138" selection-end-line="1863" selection-end-column="138" />
+          <folding>
+            <element signature="class#getPersonList#0;class#Processor#0;class#IHelloWorldService#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.10.0/libthrift-0.10.0-sources.jar!/org/apache/thrift/protocol/TBinaryProtocol.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3092">
+          <caret line="375" column="9" selection-start-line="375" selection-start-column="9" selection-end-line="375" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.10.0/libthrift-0.10.0-sources.jar!/org/apache/thrift/protocol/TJSONProtocol.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="40" column="37" selection-start-line="40" selection-start-column="37" selection-end-line="40" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.10.0/libthrift-0.10.0-sources.jar!/org/apache/thrift/protocol/TProtocol.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/thrift/libthrift/0.10.0/libthrift-0.10.0-sources.jar!/org/apache/thrift/protocol/TCompactProtocol.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="423" column="46" selection-start-line="423" selection-start-column="29" selection-end-line="423" selection-end-column="46" />
+          <folding>
+            <element signature="e#14605#14606#0" expanded="true" />
+            <element signature="e#14642#14643#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thrift-doc/image/TProtocol.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thrift-doc/image/Person.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thrift-doc/image/client.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thrift-doc/image/Client 时序图.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
   </component>

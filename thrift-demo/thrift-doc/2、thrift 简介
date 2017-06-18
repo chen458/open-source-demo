@@ -1,0 +1,21 @@
+Thrift 主要由5个部分组成：
+
+
+
+· 类型系统以及 IDL 编译器：负责由用户给定的 IDL 文件生成相应语言的接口代码
+
+
+
+· TProtocol：实现 RPC 的协议层，可以选择多种不同的对象串行化方式，如 JSON, Binary。
+
+
+
+· TTransport：实现 RPC 的传输层，同样可以选择不同的传输层实现，如socket, 非阻塞的 socket, MemoryBuffer 等。
+
+
+
+· TProcessor：作为协议层和用户提供的服务实现之间的纽带，负责调用服务实现的接口。
+
+
+
+· TServer：聚合 TProtocol, TTransport 和 TProcessor 几个对象。
